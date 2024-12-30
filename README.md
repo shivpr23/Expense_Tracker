@@ -66,7 +66,7 @@ To run the website locally, follow these steps:
 
 ## 🌐 Live Demo
 Experience the live version of the Expense Tracker here:
-👉 [Live Demo](https://your-username.github.io/expense-tracker/)
+👉 [Live Demo](https://shivpr23.github.io/Expense_Tracker/)
 
 ---
 
